@@ -1,0 +1,1 @@
+# runescape-auto-typer
